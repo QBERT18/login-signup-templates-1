@@ -1,0 +1,31 @@
+:root {
+  --ebony-clay: #24243e;
+  --ultramarine-blue: #4067ec;
+  --cornflower: #7b76f1;
+  --pale-salmon: #f8ba90;
+  --pale-blue-lily: #ceeaf7;
+  --regent-grey: ##7d9cab;
+  --blue-hosta: #84bdc2;
+
+  --dark-jungle-green: #212121;
+  --charcoal-green: #424242;
+  --storm-dust: #616161;
+  --star-dust: #9e9e9e;
+  --cotton-seed: #bdbdbd;
+  --lavender-pinocchio: #bdbdbd;
+  --soft-peach: #eeeeee;
+  --alabaster: #fafafa;
+
+  --midnight-abyss-gradient: linear-gradient(
+    to bottom,
+    #24243e 0%,
+    #59599b 49%,
+    #0f0c29 100%
+  );
+
+  --first-signup-gradient: linear-gradient(
+    to right top,
+    rgba(33, 33, 33, 0.84) 0%,
+    rgba(66, 66, 66, 0.24) 100%
+  );
+}

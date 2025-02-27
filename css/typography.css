@@ -1,0 +1,41 @@
+html,
+body {
+  font-family: "Zen Kaku Gothic Antique";
+  font-style: normal;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 76.29px;
+  line-height: 92px;
+}
+
+h2 {
+  font-weight: 500;
+  font-size: 61.64px;
+  line-height: 74px;
+}
+
+h3 {
+  font-weight: 500;
+  font-size: 43.83px;
+  line-height: 53px;
+}
+
+h4 {
+  font-weight: 400;
+  font-size: 39.06px;
+  line-height: 47px;
+}
+
+h5 {
+  font-weight: 500;
+  font-size: 31.25px;
+  line-height: 38px;
+}
+
+h6 {
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 44px;
+}
